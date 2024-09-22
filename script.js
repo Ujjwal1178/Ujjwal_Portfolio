@@ -4,7 +4,7 @@ const navLinks = document.querySelector("nav ul");
 const link1 = "https://github.com/Ujjwal1178/Netflix-clone.git";
 const link2 = "https://github.com/Ujjwal1178/wanderLust_project.git";
 const link3 = "https://github.com/Ujjwal1178/Text-Utils.git";
-const link4 = "https://github.com/Ujjwal1178/Netflix-clone.git";
+const link4 = "https://github.com/Ujjwal1178/Ujjwal_Portfolio.git";
 localStorage.theme = "light";
 function openMenu() {
   sideMenu.style.transform = "translateX(-16rem)";
