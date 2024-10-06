@@ -1,7 +1,7 @@
 const sideMenu = document.querySelector("#sideMenu");
 const navBar = document.querySelector("nav");
 const navLinks = document.querySelector("nav ul");
-const link1 = "https://github.com/Ujjwal1178/Netflix-clone.git";
+const link1 = "https://clone-111.netlify.app/login";
 const link2 = "https://github.com/Ujjwal1178/wanderLust_project.git";
 const link3 = "https://github.com/Ujjwal1178/Text-Utils.git";
 const link4 = "https://github.com/Ujjwal1178/Ujjwal_Portfolio.git";
